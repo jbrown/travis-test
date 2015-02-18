@@ -1,4 +1,7 @@
-# Travis-test [![Build Status](https://travis-ci.org/jbrown/travis-test.svg?branch=master)](https://travis-ci.org/jbrown/travis-test)
+# Travis-test
+
+[![Build Status](https://travis-ci.org/jbrown/travis-test.svg?branch=master)](https://travis-ci.org/jbrown/travis-test)
+[![Dependency Status](https://gemnasium.com/jbrown/travis-test.svg)](https://gemnasium.com/jbrown/travis-test)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
